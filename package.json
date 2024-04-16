@@ -33,7 +33,6 @@
     "docs:build": "turbo docs:build --filter=docs",
     "format": "biome format . --write",
     "format:check": "biome format . --error-on-warnings",
-    "preinstall": "npx only-allow pnpm",
     "lint": "biome check . --apply",
     "lint:check": "biome check . --verbose",
     "lint:unsafe": "biome check . --apply-unsafe",
