@@ -1,5 +1,32 @@
 {
-  "private": true,
+  "name": "@synthetixio/synpress",
+  "version": "3.7.5-beta.9",
+  "packageManager": "pnpm@8.4.0",
+  "description": "Synpress is e2e testing framework based around Cypress.io & playwright with included MetaMask support. Test your dapps with ease.",
+  "keywords": [
+    "Synpress",
+    "Cypress",
+    "metamask",
+    "testing",
+    "e2e"
+  ],
+  "homepage": "https://github.com/synthetixio/synpress#readme",
+  "bugs": {
+    "url": "https://github.com/synthetixio/synpress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synthetixio/synpress.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Synthetix"
+  },
+  "type": "commonjs",
+  "main": "launcher.js",
+  "bin": {
+    "synpress": "synpress.js"
+  },
   "scripts": {
     "build": "turbo build",
     "build:cache": "turbo build:cache --filter=@synthetixio/synpress-metamask",
