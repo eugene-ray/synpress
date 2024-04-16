@@ -1,5 +1,11 @@
 # @synthetixio/synpress-core
 
+## 1.0.0-alpha.4
+
+### Major Changes
+
+- something
+
 ## 0.0.1-alpha.3
 
 ### Patch Changes

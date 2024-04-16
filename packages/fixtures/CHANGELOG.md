@@ -1,5 +1,16 @@
 # @synthetixio/synpress-fixtures
 
+## 1.0.0-alpha.4
+
+### Major Changes
+
+- something
+
+### Patch Changes
+
+- Updated dependencies
+  - @synthetixio/synpress-core@1.0.0-alpha.4
+
 ## 0.0.1-alpha.3
 
 ### Patch Changes
